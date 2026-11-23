@@ -1,0 +1,3 @@
+minimumReleaseAgeExclude:
+  - '@fusorb/facet-components@3.2.4'
+  - '@fusorb/facet-motion@1.2.4'
